@@ -47,3 +47,10 @@ img {
     list-style: none;
 }
 
+/* Estilo para a página de Formação, aplicando apenas quando a classe .formacao-page está no body */
+.formacao-page{
+    list-style-type: disc;
+    margin-left: 30px; /* Alinhamento à esquerda */
+    padding-left: 20px;
+    text-align: left;
+}
