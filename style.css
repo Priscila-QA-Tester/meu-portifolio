@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white#c6c0c4;
+}
+
+header {
+    background-color: #af4c99;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    text-align: center;
+    margin: 20px;
+}
+
+img {
+    border-color: 70%;
+}
+
+.portifolio{    
+    align-items: center;
+    text-align: center;   
+}
+.portifolio ul li{    
+    list-style: none;
+}
+
